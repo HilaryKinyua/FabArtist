@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/header"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="5dp"
+        card_view:cardBackgroundColor="@color/white"
+        card_view:cardCornerRadius="5dp"
+        card_view:cardElevation="4dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+
+            <com.youngtech.fabartists.utils.CustomTextViewBold
+                android:id="@+id/CTVBservice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <com.youngtech.fabartists.utils.CustomTextView
+                android:id="@+id/CTVdate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/CTVBservice"
+                android:text="" />
+
+            <com.youngtech.fabartists.utils.CustomTextView
+                android:id="@+id/CTVprice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text=""
+                android:textColor="@color/colorPrimary" />
+
+            <com.youngtech.fabartists.utils.CustomTextView
+                android:id="@+id/CTVTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/CTVprice"
+                android:layout_alignParentRight="true"
+                android:text=""
+                android:textColor="@color/colorPrimary" />
+
+
+            <View
+                android:id="@+id/view"
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_below="@+id/CTVdate"
+                android:layout_marginTop="8dp"
+                android:background="@color/gray" />
+
+            <RelativeLayout
+                android:id="@+id/RRview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/view"
+                android:layout_marginTop="8dp">
+
+                <com.youngtech.fabartists.utils.CustomTextViewBold
+                    android:id="@+id/CTVBser"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="@string/services_type" />
+
+                <com.youngtech.fabartists.utils.CustomTextView
+                    android:id="@+id/CTVServicetype"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="5dp"
+                    android:layout_toRightOf="@+id/CTVBser"
+                    android:text=""
+                    android:textAllCaps="true"
+                    android:textColor="@color/colorPrimary" />
+
+
+                <LinearLayout
+                    android:id="@+id/llStatus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tvTxt"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/rectangle_red">
+
+                    <com.youngtech.fabartists.utils.CustomTextView
+                        android:id="@+id/tvStatus"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="5dp"
+                        android:text="Pending"
+                        android:textColor="@color/white"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/RRview"
+                android:layout_marginTop="15dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/IVprofile"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/dummyuser_image" />
+
+                <com.youngtech.fabartists.utils.CustomTextView
+                    android:id="@+id/CTVwork"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_toRightOf="@+id/IVprofile"
+                    android:text=""
+                    android:textAllCaps="true" />
+
+
+                <com.youngtech.fabartists.utils.CustomTextView
+                    android:id="@+id/CTVname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/CTVwork"
+                    android:layout_marginLeft="5dp"
+                    android:layout_toRightOf="@+id/IVprofile"
+                    android:text="" />
+
+                <com.youngtech.fabartists.utils.CustomTextView
+                    android:id="@+id/tvView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/CTVname"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="10dp"
+                    android:padding="5dp"
+                    android:text="@string/view_invoice" />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>

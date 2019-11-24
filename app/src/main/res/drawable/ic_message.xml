@@ -1,0 +1,12 @@
+<vector android:height="24dp" android:viewportHeight="512"
+    android:viewportWidth="512" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#FFFFFF" android:pathData="M440,213.653h-48c-4.418,0 -8,3.582 -8,8s3.582,8 8,8h48c4.418,0 8,-3.582 8,-8S444.418,213.653 440,213.653z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M72,229.653h288c4.418,0 8,-3.582 8,-8s-3.582,-8 -8,-8H72c-4.418,0 -8,3.582 -8,8S67.582,229.653 72,229.653z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M440,165.653H280c-4.418,0 -8,3.582 -8,8s3.582,8 8,8h160c4.418,0 8,-3.582 8,-8S444.418,165.653 440,165.653z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M72,181.653h176c4.418,0 8,-3.582 8,-8s-3.582,-8 -8,-8H72c-4.418,0 -8,3.582 -8,8S67.582,181.653 72,181.653z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M440,261.653H144c-4.418,0 -8,3.582 -8,8s3.582,8 8,8h296c4.418,0 8,-3.582 8,-8S444.418,261.653 440,261.653z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M72,277.653h40c4.418,0 8,-3.582 8,-8s-3.582,-8 -8,-8H72c-4.418,0 -8,3.582 -8,8S67.582,277.653 72,277.653z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M440,309.653H72c-4.418,0 -8,3.582 -8,8s3.582,8 8,8h368c4.418,0 8,-3.582 8,-8S444.418,309.653 440,309.653z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M440,117.653H72c-4.418,0 -8,3.582 -8,8s3.582,8 8,8h368c4.418,0 8,-3.582 8,-8S444.418,117.653 440,117.653z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M456,53.653H56c-30.878,0 -56,25.122 -56,56v224c0,28.163 20.897,51.537 48,55.43v53.256c0,6.494 3.877,12.296 9.877,14.782c1.992,0.825 4.075,1.226 6.14,1.226c4.155,0 8.229,-1.626 11.297,-4.694l64,-64H456c30.878,0 56,-25.122 56,-56v-224C512,78.774 486.878,53.653 456,53.653zM496,333.653c0,22.056 -17.944,40 -40,40H136c-2.122,0 -4.157,0.843 -5.657,2.343L64,442.333v-60.68c0,-4.418 -3.582,-8 -8,-8c-22.056,0 -40,-17.944 -40,-40v-224c0,-22.056 17.944,-40 40,-40h400c22.056,0 40,17.944 40,40V333.653z"/>
+</vector>

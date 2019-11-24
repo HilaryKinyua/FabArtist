@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_bookings_and_job"
+            android:title="@string/bookings_and_job">
+            <menu>
+                <item
+                    android:id="@+id/nav_jobs"
+                    android:icon="@drawable/ic_jobs"
+                    android:title="@string/jobs" />
+
+                <item
+                    android:id="@+id/nav_booking"
+                    android:icon="@drawable/ic_booking"
+                    android:title="@string/customer_booking" />
+                <item
+                    android:id="@+id/nav_bookings"
+                    android:icon="@drawable/ic_booking"
+                    android:title="@string/bookings" />
+
+                <item
+                    android:id="@+id/nav_appointment"
+                    android:icon="@drawable/ic_appointment"
+                    android:title="@string/my_appoin"
+                    android:visible="false" />
+
+            </menu>
+        </item>
+        <item
+            android:id="@+id/nav_home_features"
+            android:title="@string/home_features">
+            <menu>
+                <item
+                    android:id="@+id/nav_chat"
+                    android:icon="@drawable/ic_chat"
+                    android:title="@string/chats" />
+                <item
+                    android:id="@+id/nav_history"
+                    android:icon="@drawable/ic_history"
+                    android:title="@string/invoice" />
+            </menu>
+        </item>
+        <item
+            android:id="@+id/nav_personal"
+            android:title="@string/personal">
+            <menu>
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/ic_profile"
+                    android:title="@string/my_profile" />
+
+                <item
+                    android:id="@+id/nav_earing"
+                    android:icon="@drawable/ic_earning"
+                    android:title="@string/my_earnings" />
+                <item
+                    android:id="@+id/nav_wallet"
+                    android:icon="@drawable/ic_wallet"
+                    android:title="@string/ic_wallet" />
+            </menu>
+        </item>
+        <item
+            android:id="@+id/nav_other"
+            android:title="@string/other">
+            <menu>
+                <item
+                    android:id="@+id/nav_notification"
+                    android:icon="@drawable/ic_notification"
+                    android:title="@string/notifications" />
+
+
+                <item
+                    android:id="@+id/nav_profilesetting"
+                    android:icon="@drawable/ic_settings"
+                    android:title="@string/settings" />
+
+                <item
+                    android:id="@+id/nav_tickets"
+                    android:icon="@drawable/ic_ticket"
+                    android:title="@string/support" />
+            </menu>
+        </item>
+
+
+        <!--
+                <item
+                    android:id="@+id/nav_discount"
+                    android:icon="@drawable/ic_discount"
+                    android:title="@string/get_discount" />
+        -->
+
+
+    </group>
+
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "976663954082",
+    "firebase_url": "https://fabartists.firebaseio.com",
+    "project_id": "fabartists",
+    "storage_bucket": "fabartists.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976663954082:android:2316e4c7ac973344",
+        "android_client_info": {
+          "package_name": "com.youngtech.fabartists"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976663954082-qte1d940skhtfei0rrthlba6m79sl08l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youngtech.fabartists",
+            "certificate_hash": "52e0eb35bb196526f63b3d56aab4afe33842faec"
+          }
+        },
+        {
+          "client_id": "976663954082-c91d3c8nvli0a6u6oqu6aa2cci7s1dvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk_j08Nns9vuz4zqeU6u5-cT8yIKygzEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976663954082-c91d3c8nvli0a6u6oqu6aa2cci7s1dvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.hani-momanii:SuperNova-Emoji:1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae5be6cf86fa96493d5b4b970778f335/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae5be6cf86fa96493d5b4b970778f335/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hani-momanii/SuperNova-Emoji/1.1/a51ed55a78c8843d70f32d27f6a363213565c96/SuperNova-Emoji-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
