@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/Services.java" description="dapterSe" line="183" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50956590-3cab-4167-a90c-569b5268e126" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FabArtist" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FabArtist" type="f1a62948:ProjectNode" />
+                <item name="FabArtist" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FabArtist" type="f1a62948:ProjectNode" />
+                <item name="FabArtist" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FabArtist" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FabArtist" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FabArtist" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FabArtist" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FabArtist" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/google-services.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_privacy.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/SplashActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1717">
+              <caret line="117" column="17" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-27">
+              <caret line="120" column="50" lean-forward="true" selection-start-line="120" selection-start-column="50" selection-end-line="120" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_section.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_jobs.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spinnerDialogCate</find>
+      <find>EditPersnoalInfo</find>
+      <find>ivBanner</find>
+      <find>postedJobDTOSList</find>
+      <find>allJobsDTOListSection</find>
+      <find>AllJobsDTO</find>
+      <find>allJobsDTOList</find>
+      <find>ProjectUtils.changeDateFormate</find>
+      <find>AdapterGallery</find>
+      <find>tvInvoiceId</find>
+      <find>artistDetailsDTO</find>
+      <find>dose</find>
+      <find>loadHomeFragment</find>
+      <find>fabcustomer</find>
+      <find>pending</find>
+      <find>tvLocation</find>
+      <find>walletAmount</find>
+      <find>getWalletAmount</find>
+      <find>getCreated_at</find>
+      <find>tvDate</find>
+      <find>time</find>
+      <find>changeDateFormate</find>
+      <find>ProjectUtils.correctTimestamp(Long.parseLong(</find>
+      <find>getDisplayableDaySection</find>
+      <find>getBooking_timestamp</find>
+      <find>getJob_timestamp</find>
+      <find>27.1.1</find>
+      <find>showData</find>
+      <find>setSection</find>
+      <find>com.</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>http://getthatdone.co.uk/admin</replace>
+      <replace>003258</replace>
+      <replace>14sp</replace>
+      <replace>12sp</replace>
+      <replace>titleContainer</replace>
+      <replace>provider</replace>
+      <replace>getthatdone.provider</replace>
+      <replace>http://phpstack-132936-677440.cloudwaysapps.com/</replace>
+      <replace>black</replace>
+      <replace>Email Id</replace>
+      <replace>ivLogo</replace>
+      <replace>677440</replace>
+      <replace>852279</replace>
+      <replace>16sp</replace>
+      <replace>@color/colorPrimaryDark</replace>
+      <replace>binding.tvAcceptBooking</replace>
+      <replace>getBookings</replace>
+      <replace>context</replace>
+      <replace>TAG_BOOKINGS_ALL</replace>
+      <replace>baseActivity.ivSearch</replace>
+      <replace>10dp</replace>
+      <replace>allJobsDTOList</replace>
+      <replace>appliedJobDTOSListSection</replace>
+      <replace>AppliedJobDTO</replace>
+      <replace>artistBookingsList</replace>
+      <replace>ProjectUtils.getDisplayableDaySection(ProjectUtils.correctTimestamp(Long.parseLong(</replace>
+      <replace>does</replace>
+      <replace>fabartist</replace>
+      <replace>changeDateFormate1</replace>
+      <replace>28.0.0</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/adapter</dir>
+    </dirStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/app/FabArtist.jks" />
+    <option name="KEY_ALIAS" value="FabArtist" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/Reviews.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/Wallet.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/Tickets.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/UnPaidFrag.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/PersnoalInfo.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/PaidFrag.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/Notification.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/AllJobsFrag.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/AppointmentFrag.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/ArtistProfile.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/ChatList.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/CustomerBooking.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/GetDiscount.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/MyEarning.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/activity/OneTwoOneChat.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/activity/CommentOneByOne.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/activity/EditPersnoalInfo.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/adapter/AllJobsAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/AppliedJobsFrag.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/ui/fragment/NewBookings.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_new_bookings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_three_dot.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartist/DTO/EarningDTO.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/adapter_all_bookings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/adapter/AdapterAllBookings.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/DTO/AllJobsDTO.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/adapter_all_jobs.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/adapter/AllJobsAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/DTO/AppliedJobDTO.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/adapter/AppliedJobAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_customer_booking.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/fragment/CustomerBooking.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/utils/ProjectUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/MyFirebaseInstanceIDService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/MyFirebaseMessagingService.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/fragment/ArtistProfile.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/activity/BaseActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/activity/OneTwoOneChat.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/activity/CommentOneByOne.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_section.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/fragment/NewBookings.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/fragment/AppliedJobsFrag.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/fragment/AllJobsFrag.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/interfacess/Consts.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/activity/Privacy.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/activity/Terms.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/google-services.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="47" />
+    <option name="width" value="1326" />
+    <option name="height" value="656" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <hideEmptyPackages AndroidView="true" ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Artist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Artist" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="lge-nexus_5x-00d099ee0fd530d1" />
+    <property name="DEBUGGABLE_PROCESS" value="com.samyotech.fabartists" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="device.picker.selection" value="00d099ee0fd530d1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Customer" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.3.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-nodpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/getthatdone/provider/ui/fragment" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.samyotech.fabartist.ui.activity" />
+      <recent name="com.getthatdone.provider.ui.activity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.samyotech.fabartist.ui.adapter" />
+      <recent name="com.getthatdone.provider.ui.adapter" />
+      <recent name="com.getthatdone.provider.ui.fragment" />
+      <recent name="com.getthatdone.provider.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-nodpi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FabArtist:app [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FabArtist:app [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.FabArtist:app [signingReport]" />
+        <item itemvalue="Gradle.FabArtist:app [assemble]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50956590-3cab-4167-a90c-569b5268e126" name="Default Changelist" comment="" />
+      <created>1551420363998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551420363998</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1574592248769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574592248769</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1574592928267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574592928267</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" sideWeight="0.5008726" side_tool="true" weight="0.32954547" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4991274" visible="true" weight="0.3290469" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32954547" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.30769232" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49848485" weight="0.61082023" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32984293" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49772727" weight="0.32635254" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5022727" side_tool="true" weight="0.63699824" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49772727" weight="0.63666123" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.32984293" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32954547" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Fabric" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.32954547" />
+      <window_info anchor="right" id="Device File Explorer" order="6" weight="0.32954547" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/MyFirebaseMessagingService.java</url>
+          <line>29</line>
+          <properties field="i" class="com.youngtech.fabartists.MyFirebaseMessagingService" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/ImageGallery.java</url>
+          <line>201</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/AllJobsFrag.java</url>
+          <line>171</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/AllJobsFrag.java</url>
+          <line>172</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/adapter/AllJobsAdapter.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/MyEarning.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_calendar.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_placeholder.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-27/android/widget/TextView.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/DTO/AppliedJobDTO.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/adapter/AppliedJobAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/adapter_all_bookings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="77" selection-start-line="57" selection-end-line="77" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/adapter/AdapterAllBookings.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_customer_booking.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/ImageGallery.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/HistoryFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/GetDiscount.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/CustomerBooking.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/ChatList.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/AppointmentFrag.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dailog_ar_personal_info.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dailog_personal_info.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/ProfileSetting.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/MyFirebaseInstanceIDService.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/Tickets.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/adapter/TicketAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/activity/CommentOneByOne.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dailog_apply_job.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/DTO/AllJobsDTO.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/utils/ProjectUtils.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/activity/BaseActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/utils/AutoScrollViewPager.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/adapter_all_jobs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/activity/OneTwoOneChat.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/MyFirebaseMessagingService.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/NewBookings.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/JobsFrag.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/JobsCateFrag.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/ArtistProfile.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/AppliedJobsFrag.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/adapter/AllJobsAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/interfacess/Consts.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/activity/SignUpActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/activity/Terms.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/activity/Privacy.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/ui/fragment/AllJobsFrag.java" />
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/google-services.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_privacy.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/youngtech/fabartists/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="117" column="17" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_section.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_jobs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="120" column="50" lean-forward="true" selection-start-line="120" selection-start-column="50" selection-end-line="120" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
